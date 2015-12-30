@@ -1,0 +1,26 @@
+{
+  "name": "nd-csv",
+  "version": "1.0.0",
+  "description": "Parse and encode CSV files",
+  "keywords": [],
+  "main": "index.js",
+  "author": {
+    "name": "knrz lianruhe",
+    "email": "lianruhe2013@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndfront/nd-csv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndfront/nd-csv/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "jquery": "1.11.1"
+    }
+  }
+}
