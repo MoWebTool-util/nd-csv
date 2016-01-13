@@ -1,6 +1,6 @@
 # nd-csv
 
-[![spm version](http://spm.crossjs.com/badge/nd-list)](http://spm.crossjs.com/package/nd-list)
+[![spm version](http://spm.crossjs.com/badge/nd-csv)](http://spm.crossjs.com/package/nd-csv)
 
 > Parse and encode CSV files
 
